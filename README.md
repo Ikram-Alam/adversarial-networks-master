@@ -1,7 +1,7 @@
 Semi Adversarial Networks (SAN)
 ===============================
 
-PyTorch implementation of the semi-adversarial neural network model described in *Semi-adversarial networks: Convolutional autoencoders for imparting privacy to face images* by V. Mirjalili, S. Raschka, A. Namboodiri, and A. Ross.
+PyTorch implementation of the semi-adversarial neural network model described in *Semi-adversarial networks: Convolutional autoencoders for imparting privacy to face images* by Ikram Alam
 
 ## Research Article
 
